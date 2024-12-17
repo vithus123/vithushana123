@@ -4,8 +4,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vithushana manoharan manoharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vithushana manoharan manoharan" height="30" width="40" /></a>
-<a href="https://instagram.com/vithushana manoharan manoharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vithushana manoharan manoharan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vithushana-manoharan-%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-2654b4265/?originalSubdomain=lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vithushana manoharan manoharan" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
