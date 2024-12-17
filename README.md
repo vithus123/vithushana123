@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vithushana Manoharan</h1>
 <h3 align="center">Passionate Frontend Developer | React | Tailwind CSS | MERN </h3>
 
-- 🌱 I’m currently studying **in University of BEDFORDSHIRE | SLIIT City Uni
+- 🌱 I’m currently studying in University of BEDFORDSHIRE | SLIIT City Uni
 
 - 📫 How to reach me **shanakaran23@gmail.com**
 
