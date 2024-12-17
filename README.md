@@ -1,4 +1,4 @@
-# vithushana123
+# Vithushana
 <h1 align="center">Hi 👋, I'm Vithushana Manoharan</h1>
 <h3 align="center">Passionate Frontend Developer | React | Tailwind CSS |</h3>
 
